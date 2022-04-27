@@ -11,7 +11,11 @@
     "access": "public"
   },
   "scripts": {
+<<<<<<< HEAD
     "init": "shx rm -rf .git && git init",
+=======
+    "init": "shx rm -rf .git && git init -b main",
+>>>>>>> f05f674939d5d4b0be30ecff1bd3776dd0b6a82f
     "create": "exec-bin node_modules/.bin/hugo/hugo new",
     "prestart": "npm run clean",
     "start": "exec-bin node_modules/.bin/hugo/hugo server  --bind=0.0.0.0 --disableFastRender",
