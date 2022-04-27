@@ -1,11 +1,11 @@
 [[docs]]
-  name = "Doks教程"
+  name = "Prologue"
   weight = 10
-  identifier = "Doks教程"
-  url = "/docs/Doks教程/"
+  identifier = "prologue"
+  url = "/docs/prologue/"
 
 [[docs]]
-  name = "Help1"
+  name = "Help"
   weight = 60
   identifier = "help"
   url = "/docs/help/"
@@ -23,14 +23,14 @@
   url = "/guide/lorem/"
 
 [[tutorial]]
-  name = "教程"
+  name = "Lorem"
   weight = 10
-  identifier = "教程"
-  url = "/tutorial/教程/"
+  identifier = "lorem"
+  url = "/tutorial/lorem/"
 
 [[main]]
   name = "Docs"
-  url = "/docs/Doks教程/0. 安装依赖/"
+  url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -61,7 +61,7 @@
   name = "Tutorial"
   weight = 50
   identifier = "tutorial"
-  url = "/tutorial/简介/"
+  url = "https://getdoks.org/tutorial/introduction/"
   parent = "get-started"
 
 [[social]]
