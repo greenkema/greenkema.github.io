@@ -1,4 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://op.wooocloud.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
